@@ -1,0 +1,65 @@
+/*Selectores 
+	etiquetas
+		atributos: valor;
+	identificadores
+		atributos: valor;
+	clases
+		atributos: valor;
+	pseudoelementos
+		atributos: valor;
+	Cada categoria de selectores va en orden alfabetico*/
+
+body{
+	background: black;
+	color : black;
+	margin: 0px auto;
+	max-width: 1024px;
+}
+header{
+ 	background: blue;
+ 	color: white;
+ 	text-align: center;
+ 	/*padding: 5px 0px 0px 0px;*/
+ 	padding-top: 5px;
+ 	border-radius: 5px;
+}
+
+header img{
+	width: 150px;
+	padding: 5px ;
+}
+
+header nav ul li{
+	display: inline-block;
+	margin: 10px;
+	background: orange;
+	border-radius: 5px;
+	padding: 10px;
+	width: 108px;
+	color: black;
+	box-shadow: -5px -5px black;
+}
+
+header nav ul li:hover{
+	background: black;
+	color: orange;
+	box-shadow: -5px -5px orange;
+}
+
+img{
+	border-radius:  100px;
+}
+/*
+
+Margin = derecha/izquierda
+Margin con dos parametros es para derecha e izquierda
+Padding = arriba/abajo
+padding con dos parametros es para arriba y abajo
+
+5px 10px 8px 3px
+arriba, derecha, abajo, izquierda
+Los padding o margin se mueven en sentido de las manesillas del reloj/
+
+
+
+*/
