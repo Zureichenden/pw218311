@@ -1,0 +1,61 @@
+
+
+header img {
+	margin-left: 10px;
+}
+
+header section article {
+
+}
+
+header nav ul li{
+ display: inline-block;
+ margin-top: 20px;
+ margin-left: -33px;
+ padding-right: 90px;
+}
+
+#buy{	
+	margin-left: 200px;
+	
+}
+
+
+#gotoshop{
+	float: right;
+}
+
+#otraSeccion article {
+	margin-top: 30px;
+	display: inline-block;
+}
+
+#otraSeccion article img {
+	padding-left: 15px;
+}
+
+#seccionTexto {
+	margin-top: 30px;
+}
+
+#seccionTitulos {
+	margin-top: 20px;
+}
+
+.colorverde {
+	color: #8BC500;
+}
+
+.letragrande {
+	font-size: 3.5em;
+}
+
+.nito {
+	font-weight: bold;
+}
+
+
+
+
+
+
