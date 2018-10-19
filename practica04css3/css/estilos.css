@@ -1,4 +1,10 @@
 
+body{
+	margin: 0px auto;
+	max-width: 1078px;
+	min-height: 1078px;
+}
+
 
 header img {
 	margin-left: 10px;
@@ -8,6 +14,10 @@ header section article {
 
 }
 
+header nav {
+	margin-bottom:  60px;
+}
+
 header nav ul li{
  display: inline-block;
  margin-top: 20px;
@@ -15,11 +25,18 @@ header nav ul li{
  padding-right: 90px;
 }
 
+
+
 #buy{	
-	margin-left: 200px;
+	
+	
+	
 	
 }
 
+.caja{
+	border-bottom: 2px dashed green;
+}
 
 #gotoshop{
 	float: right;
@@ -39,11 +56,24 @@ header nav ul li{
 }
 
 #seccionTitulos {
-	margin-top: 20px;
+	margin-top: 5px;
 }
 
 .colorverde {
 	color: #8BC500;
+}
+
+.imagensmaller{
+	width: 2%;
+	left: 355px;
+	margin-top: : 10px;
+	position: relative;
+
+}
+
+.imagensmall{
+	width: 5%;
+
 }
 
 .letragrande {
