@@ -4,6 +4,7 @@ body{
 	max-width: 1024px;
 	min-width: 1024px;
 }
+<<<<<<< HEAD
 
 header {
 	position: fixed;
@@ -11,6 +12,8 @@ header {
 	width: 1024px;
 
 }
+=======
+>>>>>>> master
 header,footer{
 	background: black;
 	color: white;
@@ -47,7 +50,10 @@ header nav ul li{
 }
 #primerSeccion{
 	background: #ABABAB;
+<<<<<<< HEAD
 	margin-top: 143px;
+=======
+>>>>>>> master
 	padding-bottom: 10px;
 	width: 100%;
 }
